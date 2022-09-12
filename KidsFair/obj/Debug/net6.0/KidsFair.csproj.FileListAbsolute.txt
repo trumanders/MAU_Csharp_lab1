@@ -1,0 +1,30 @@
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.AssemblyReference.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.GeneratedMSBuildEditorConfig.editorconfig
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfoInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfo.cs
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.CoreCompileInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.exe
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.deps.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.runtimeconfig.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\refint\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.genruntimeconfig.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\KidsFair\obj\Debug\net6.0\ref\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.exe
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.deps.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.runtimeconfig.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\bin\Debug\net6.0\KidsFair.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.AssemblyReference.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.GeneratedMSBuildEditorConfig.editorconfig
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfoInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfo.cs
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.csproj.CoreCompileInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\refint\KidsFair.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\KidsFair.genruntimeconfig.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\KidsFair\obj\Debug\net6.0\ref\KidsFair.dll

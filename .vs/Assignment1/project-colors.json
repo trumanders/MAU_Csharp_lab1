@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75c41a34-518c-4251-b08f-71703905f033": {
+      "ProjectGuid": "75c41a34-518c-4251-b08f-71703905f033",
+      "DisplayName": "Part2",
+      "ColorIndex": 0
+    },
+    "83199154-494c-4eaa-9941-6205b3ea745b": {
+      "ProjectGuid": "83199154-494c-4eaa-9941-6205b3ea745b",
+      "DisplayName": "KidsFair",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

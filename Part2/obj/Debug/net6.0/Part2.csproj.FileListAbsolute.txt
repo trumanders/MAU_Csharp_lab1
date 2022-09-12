@@ -1,0 +1,30 @@
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.csproj.AssemblyReference.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.AssemblyInfoInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.AssemblyInfo.cs
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.csproj.CoreCompileInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\bin\Debug\net6.0\Part2.exe
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\bin\Debug\net6.0\Part2.deps.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\bin\Debug\net6.0\Part2.runtimeconfig.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\bin\Debug\net6.0\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\bin\Debug\net6.0\Part2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\refint\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\Part2.genruntimeconfig.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\C#\Assignment1\Part2\obj\Debug\net6.0\ref\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\bin\Debug\net6.0\Part2.exe
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\bin\Debug\net6.0\Part2.deps.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\bin\Debug\net6.0\Part2.runtimeconfig.json
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\bin\Debug\net6.0\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\bin\Debug\net6.0\Part2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.csproj.AssemblyReference.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.AssemblyInfoInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.AssemblyInfo.cs
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.csproj.CoreCompileInputs.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\refint\Part2.dll
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.pdb
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\Part2.genruntimeconfig.cache
+D:\-=ANDERS=-\-= OneDrive 1 TB =-\OneDrive\Programmering\-=SKOLA=-\-= Malmö C# =-\Assignment1\Part2\obj\Debug\net6.0\ref\Part2.dll
